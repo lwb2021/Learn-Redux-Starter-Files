@@ -14,6 +14,7 @@ const Photo = React.createClass({
               alt={post.caption}
               className="grid-photo"
             />
+            <h2>Hello!</h2>
           </Link>
           <ReactCSSTransitionGroup
             transitionName="like"
